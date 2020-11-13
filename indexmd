@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tw">
+ <head>
+          <meta charset="utf-8">
+          <title>熊熊遇見你</title>
+          <meta name="description"content="文化觀光/旅遊介紹">
+          <link rel="stylesheet"href="style.css">
+
+</head>
+<body>
+<header>
+             <h1>熊熊遇見你網站</h1>
+             <nav class="navigation">
+             <ul>
+             <li><a href="#profile">卡通介紹</a></li>
+             <li><a href="#concert">個人簡介</a></li>
+             <li><a href="https://miffy0624.github.io/wwww/" target="_blank">歷年專案作品</a></li>
+             <li><a href="https://miffy0624.github.io/www/books.xml" target="_blank">收藏的圖書</a></li>
+             <li><a href="https://miffy0624.github.io/Form1/form.htm" target="_blank">設計的表單</a></li>
+             <li><a href="https://www.nuu.edu.tw/" target="_blank">聯合大學</a></li>
+             <li><a href="http://www.doct.nuu.edu.tw/main.php" target="_blank">文觀系</a></li>
+             </ul>
+             </nav>
+</header>
+<main>
+<div class="mainvisual">
+           <img src="5.jpg" alt="主視覺圖片"width="740"height="30">
+</div>
+<article id="profile">
+<div class="inner">
+         <h2>卡通介紹</h2>
+         <p align="center">是2014年播出的動畫節目，改編自Daniel Chong網路漫畫《三裸熊》</p>
+         <p align="center">三隻熊熊有著完全不同個性，但每天也是發生很多有趣的事情</p>
+</div>
+</article>
+
+
+<article id="concert">
+         <h2>個人作品集</h2>
+         <p>歷年作品<h2>
+              <section>
+              <h3>個人簡歷</h3>
+              <table>
+              <tr><th>現職</th><td>文觀系學生</td>
+              </tr>
+              <tr>
+              <th>學歷</th><td>國立聯合學文觀系</td>
+              </tr>
+              <tr>
+              <th>個人專長</th><td>講話</td>
+              </tr>
+              <tr>
+              <th>個人興趣</th><td>看影片、玩積木</td>
+              </tr>
+              <tr><th>考取證照</th><td>電腦軟體應用丙級</td>
+              </tr>
+              </table>
+              </section>
+
+              <section>
+              <h3>作品集</h3>
+              <section class="performer">
+                     <img src="1.jpg"width="150"height="150">
+                     <h4>大大</h4>
+                     <p>長善於交際但又不善交際。
+                        儘管如此，他不斷想認識新朋友，並喜歡他所遇到的大家。</p>
+              </section>
+              <h3>作品集</h3>
+              <section class="performer">
+                     <img src="2.jpg"width="150"height="150">
+                     <h4>胖達</h4>
+                     <p>很會使用社群網路和交友網站，但容易尷尬。是素食主義者，對花生和貓咪過敏。</p>
+              </section>
+              <section>
+              <h3>作品集</h3>
+              <section class="performer">
+                     <img src="3.jpg"width="150"height="150">
+                     <h4>阿極</h4>
+                     <p>很堅強，即使在最尷尬和難堪的情況，態度始終保持冷靜。很少說話，模仿和學習能力強，在冰箱睡覺時會握著他的消防斧。</p>
+              </section>
+              <section>
+             
+              </section>
+
+              <section>
+              <h3>著作目錄<h3>
+              <ol>
+                        <li>陳芃伶愛吃東西</li>
+                        <li>陳芃伶愛睡覺</li>
+                        <li>陳芃伶愛講話</li>
+              </ol>
+              </section>
+</article>
+</main>
+<footer>
+<p class="pagetop"><a href="#top">回到首頁</a></p>
+<p class="copyright"><small>&copy;CopyRight 2020 文化觀光產業學系</small></p>
+</footer>
+</body>
+</html>
